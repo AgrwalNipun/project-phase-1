@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="DGJkFr_H2TolN1fLyXTJ">
+    <mxGraphModel dx="1042" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="490" as="sourcePoint" />
+            <mxPoint x="180" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.588;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="_GOAPQ-aXDhB-PjfZfh_-1" target="_GOAPQ-aXDhB-PjfZfh_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-1" value="Crowd Sourced Civic Issue System" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_GOAPQ-aXDhB-PjfZfh_-3" target="_GOAPQ-aXDhB-PjfZfh_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-3" value="Citizens" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.995;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_GOAPQ-aXDhB-PjfZfh_-7" target="_GOAPQ-aXDhB-PjfZfh_-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="565" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-7" value="Municipal Staff" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-18" value="Reports an Issue" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-19" value="Sends update Notifications" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-20" value="Status Updates" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_GOAPQ-aXDhB-PjfZfh_-21" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Processed Issue Data +&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;Analytics Reports&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="505" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
